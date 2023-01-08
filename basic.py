@@ -1,1 +1,2 @@
 print ("Pritam")
+print ("Debo")
